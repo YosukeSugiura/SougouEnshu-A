@@ -23,12 +23,12 @@ P_c     = np.unwrap(np.angle(T_c))              # フィルタの位相特性
 
 ##      プロット１
 fig1, ax1 = plt.subplots(2, 1, constrained_layout=True)     # 2行1列のグラフウィンドウ作成
-#   ローパスフィルタ(窓関数なし)の振幅特性
+#   振幅特性
 ax1[0].plot(omega_n, A_c,'r')                   # 横軸を omega_n として A_c をプロット
 ax1[0].set_xlim(0, 1); ax1[0].set_ylim(0, 1.25) # x軸，y軸の表示範囲を指定
 ax1[0].set_title('Amplitude Characteristics')
 ax1[0].set_xlabel('Angular Frequency (×π)');  ax1[0].set_ylabel('Amplitude')
-#   ローパスフィルタ(窓関数なし)の位相特性
+#   位相特性
 ax1[1].plot(omega_n,P_c,'r')                    # 横軸を omega_n として P_c をプロット
 ax1[1].set_xlim(0, 1); ax1[1].set_ylim(-80,0)   # x軸，y軸の表示範囲を指定
 ax1[1].set_title('Phase Characteristics')
@@ -46,12 +46,12 @@ P_cw    = np.unwrap(np.angle(T_cw))             # フィルタの位相特性
 
 ##      プロット２
 fig2, ax2 = plt.subplots(2, 1, constrained_layout=True)     # 2行1列のグラフウィンドウ作成
-#   ローパスフィルタ(窓関数あり)の振幅特性
+#   振幅特性
 ax2[0].plot(omega_n, A_cw)                      # 横軸を omega_n として A_cw をプロット
 ax2[0].set_xlim(0, 1); ax2[0].set_ylim(0, 1.25) # x軸，y軸の表示範囲を指定
 ax2[0].set_title('Amplitude Characteristics')
 ax2[0].set_xlabel('Angular Frequency (×π)');  ax1[0].set_ylabel('Amplitude')
-#   ローパスフィルタ(窓関数あり)の位相特性
+#   位相特性
 ax2[1].plot(omega_n, P_cw)                      # 横軸を omega_n として P_cw をプロット
 ax2[1].set_xlim(0, 1); ax2[1].set_ylim(-90,0)   # x軸，y軸の表示範囲を指定
 ax2[1].set_title('Phase Characteristics')
