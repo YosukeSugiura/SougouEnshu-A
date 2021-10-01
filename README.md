@@ -11,9 +11,6 @@
 - [kadai_2-2.ipynb](https://github.com/YosukeSugiura/SougouEnshu-A/blob/master/kadai_2_2.ipynb):  
    課題2-2，2-3用ソースコード．バイナリマスクおよびDUETによる音源分離を勉強する．
 
-- [kadai_2-4.ipynb](https://github.com/YosukeSugiura/SougouEnshu-A/blob/master/kadai_2_4.ipynb):  
-   発展課題2-4用ソースコード．必須ではない．DUETによる音源分離の応用を勉強する．
-
 ## 音声一覧
 
 - sound_mono.wav:
