@@ -19,13 +19,11 @@
 
 ## 音声一覧
 
-- sound_mono.wav:
+- sound_mono.wav:  
    課題2-1用音声ファイル．モノラル音声．
  
-- sound_stereo_l.wav: 左チャンネル音声
-- sound_stereo_r.wav: 右チャンネル音声
+- sound_stereo_l.wav, sound_stereo_r.wav:  
    課題2-2，2-3用音声ファイル．２話者音源．ステレオ音声を扱う．
    
-- sound_ch1.wav: 左チャンネル音声
-- sound_ch2.wav: 右チャンネル音声
+- sound_ch1.wav, sound_ch2.wav:  
    課題2-4用音声ファイル．３話者音源．ステレオ音声を扱う．
