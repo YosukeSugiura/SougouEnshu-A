@@ -8,17 +8,34 @@
 
 ## ソースコード一覧
 
+### 課題2-1
+ 
+音声信号処理の流れを勉強します．
+ここではフィルタリングの例として，周波数領域の低域通過フィルタを実装します．
+
 - [kadai_2-1.ipynb](https://github.com/YosukeSugiura/SougouEnshu-A/blob/master/kadai_2_1.ipynb):  
-   課題2-1用ソースコード．音声処理の基本を勉強する．
+   課題2-1用サンプルソースコード．
+
+### 課題2-2
+
+２話者２マイクロホンで収録した音声に対してバイナリマスクによる音源分離を行います．
 
 - [kadai_2-2.ipynb](https://github.com/YosukeSugiura/SougouEnshu-A/blob/master/kadai_2_2.ipynb):  
-   課題2-2用ソースコード．２話者２マイクロホンで収録した音声に対してバイナリマスクによる音源分離を行う．
+   課題2-2用サンプルソースコード．
+
+### 課題2-3
+
+２話者２マイクロホンで収録した音声に対してDUETによる音源分離を行います．
 
 - [kadai_2-3.ipynb](https://github.com/YosukeSugiura/SougouEnshu-A/blob/master/kadai_2_3.ipynb):  
-   課題2-3用ソースコード．２話者２マイクロホンで収録した音声に対してDUETによる音源分離を行う．
+   課題2-3用サンプルソースコード．
+
+### 課題2-3
+
+音源数を増やして，３話者２マイクロホンで収録した音声に対してDUETによる音源分離を行います．
 
 - [kadai_2-4.ipynb](https://github.com/YosukeSugiura/SougouEnshu-A/blob/master/kadai_2_4.ipynb):  
-   課題2-4用ソースコード．２話者３マイクロホンで収録した音声に対してDUETによる音源分離を行う．
+   課題2-4用サンプルソースコード．
 
 ## 音声一覧
 
