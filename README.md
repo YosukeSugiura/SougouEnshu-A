@@ -30,7 +30,7 @@
 - [kadai_2-3.ipynb](https://github.com/YosukeSugiura/SougouEnshu-A/blob/master/kadai_2_3.ipynb):  
    課題2-3用サンプルソースコード．
 
-### - 課題2-3
+### - 課題2-4
 
 音源数を増やして，３話者２マイクロホンで収録した音声に対してDUETによる音源分離を行います．
 
