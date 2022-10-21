@@ -22,6 +22,10 @@
 
 - [ensyu_3-2.ipynb](ensyu_3_2.ipynb):  
    演習3-2用サンプルソースコード．
+   
+   > 補足：
+   > この演習は for ループを使って実装することができます．
+   > for ループの使い方については [こちら](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/main/05_for) が参考になるかもしれません．
 
 ### - 演習3-3
 
