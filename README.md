@@ -4,7 +4,7 @@
 
 ## 教材
 
-教科書 ([総合演習_A-3テキスト.pdf](https://github.com/YosukeSugiura/SougouEnshu-A/blob/master/総合演習A-3テキスト.pdf))
+教科書 ([総合演習_A-3テキスト.pdf](総合演習A-3テキスト.pdf))
 
 ## 各演習の内容・サンプルコード
 
@@ -13,28 +13,28 @@
 音声信号処理の流れを勉強します．
 ここではフィルタリングの例として，周波数領域の低域通過フィルタを実装します．
 
-- [kadai_2-1.ipynb](https://github.com/YosukeSugiura/SougouEnshu-A/blob/master/kadai_2_1.ipynb):  
+- [ensyu_3-1.ipynb](ensyu_3_1.ipynb):  
    演習3-1用サンプルソースコード．
 
 ### - 演習3-2
 
 ２話者２マイクロホンで収録した音声に対してバイナリマスクによる音源分離を行います．
 
-- [kadai_2-2.ipynb](https://github.com/YosukeSugiura/SougouEnshu-A/blob/master/kadai_2_2.ipynb):  
+- [ensyu_3-2.ipynb](ensyu_3_2.ipynb):  
    演習3-2用サンプルソースコード．
 
 ### - 演習3-3
 
 ２話者２マイクロホンで収録した音声に対してDUETによる音源分離を行います．
 
-- [kadai_2-3.ipynb](https://github.com/YosukeSugiura/SougouEnshu-A/blob/master/kadai_2_3.ipynb):  
+- [ensyu_3-3.ipynb](ensyu_3_3.ipynb):  
    演習3-3用サンプルソースコード．
 
 ### - 演習3-4
 
 音源数を増やして，３話者２マイクロホンで収録した音声に対してDUETによる音源分離を行います．
 
-- [kadai_2-4.ipynb](https://github.com/YosukeSugiura/SougouEnshu-A/blob/master/kadai_2_4.ipynb):  
+- [ensyu_3-4.ipynb](ensyu_3_4.ipynb):  
    演習3-4用サンプルソースコード．
 
 ## 音声一覧
