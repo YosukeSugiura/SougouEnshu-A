@@ -4,7 +4,7 @@
 
 ## 教材
 
-教科書 ([総合演習_A-2テキスト.pdf](https://github.com/YosukeSugiura/SougouEnshu-A/blob/master/%E7%B7%8F%E5%90%88%E6%BC%94%E7%BF%92_%E8%AA%B2%E9%A1%8CA-2%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88.pdf))
+教科書 ([総合演習_A-3テキスト.pdf](https://github.com/YosukeSugiura/SougouEnshu-A/blob/master/総合演習A-3テキスト.pdf))
 
 ## 各課題の内容・サンプルコード
 
