@@ -62,7 +62,7 @@
    
 ### 課題2-3
 
-- sound_2sources.wav:  
+- sound_2sources_duet.wav:  
    課題2-2，2-3用音声ファイル．２話者音源．ステレオ音声を扱う．  
    
 - original_1.wav:  
@@ -79,7 +79,7 @@
    
 ### 課題2-4
 
-- sound_3sources.wav:  
+- sound_3sources_duet.wav:  
    課題2-4用音声ファイル．３話者音源．ステレオ音声を扱う．  
    
 - original_1.wav:  
