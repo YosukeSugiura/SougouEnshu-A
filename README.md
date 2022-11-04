@@ -15,6 +15,10 @@
 
 - [ensyu_3-1.ipynb](ensyu_3_1.ipynb):  
    演習3-1用サンプルソースコード．
+   
+   > 補足：
+   > Numpy 配列におけるスライス(配列の一部を指定して処理)するとき，インデックスは次のように指定します．
+   > - [`for` ループの使い方](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/main/05_for)  
 
 ### - 演習3-2
 
