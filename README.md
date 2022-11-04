@@ -24,8 +24,9 @@
    演習3-2用サンプルソースコード．
    
    > 補足：
-   > この演習は for ループを使って実装することができます．
-   > for ループの使い方については [こちら](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/main/05_for) が参考になるかもしれません。
+   > この演習は `for` ループや `if` を使って実装することができます．Pythonにおける `for` や `if` の書き方はネットで検索したり，以下のサイトを参考にしてください．  
+   > - [`for` ループの使い方](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/main/05_for)  
+   > - [`if` の使い方](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/main/04_if)  
 
 ### - 演習3-3
 
