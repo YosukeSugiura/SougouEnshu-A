@@ -17,8 +17,9 @@
    演習3-1用サンプルソースコード．
    
    > 補足：
-   > Numpy 配列におけるスライス(配列の一部を指定して処理)するとき，インデックスは次のように指定します．
-   > - [`for` ループの使い方](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/main/05_for)  
+   > Numpy 配列の一部の行を取り出したり，一部の列を取り出すことをスライシングと呼びます．  
+   > Numpy配列のスライシングの規則は以下を参考にしてください．
+   > - [Numoy配列のスライシング](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/main/06_read_write#列と行の取り出し)  
 
 ### - 演習3-2
 
