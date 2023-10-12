@@ -4,7 +4,10 @@
 
 ## 教材
 
-教科書 ([総合演習_A-3テキスト.pdf](総合演習A-3テキスト.pdf))
+- 教科書 ([総合演習_A-3テキスト.pdf](総合演習A-3テキスト.pdf))
+- Pythonの基本文法に関する参考資料 (if文，for文について勉強したい場合)
+   - [Pythonの基本的な文法(2) : 条件分岐](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/main/04_if)
+   - [Pythonの基本的な文法(3) : 繰り返し](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/main/05_for)
 
 ## 各演習の内容・サンプルコード
 
